@@ -31,7 +31,7 @@ arquivo
 
 
 <div>
-<style scoped>
+
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -43,7 +43,7 @@ arquivo
     .dataframe thead th {
         text-align: right;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -234,7 +234,7 @@ arquivo
 
 
 <div>
-<style scoped>
+
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -246,7 +246,7 @@ arquivo
     .dataframe thead th {
         text-align: right;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -481,7 +481,7 @@ x_teste[200:210]
 
 
 <div>
-<style scoped>
+
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -493,7 +493,7 @@ x_teste[200:210]
     .dataframe thead th {
         text-align: right;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
